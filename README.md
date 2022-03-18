@@ -22,10 +22,11 @@ page_range = range(1,43) # 1-42页
 > ## 题目1
 > - 答案
 > - 答案
-> [discussion链接]
+> discussion链接
 > ## 题目2
 > - 答案
 > - 答案
+> discussion链接
 
 因为是前端的面试题，有大量html标签，进行了转义处理
 其余部分的格式建议手动调整
